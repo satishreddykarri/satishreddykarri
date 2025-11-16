@@ -38,9 +38,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <!-- Flutter -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+
+  <!-- Tableau -->
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40"/>
+
+  <!-- Machine Learning -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" width="40" height="40"/>
+
+  <!-- Splunk -->
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/>
+
+  <!-- n8n -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40"/>
 
   <!-- Tools & Other Skills -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+  
 </p>
 
