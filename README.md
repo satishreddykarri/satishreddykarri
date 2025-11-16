@@ -44,14 +44,3 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Additional Skills:</h3>
-<p>
-- Flutter & Dart <br>
-- MERN Stack (MongoDB, Express, React, Node.js) <br>
-- Machine Learning & Data Science <br>
-- Splunk <br>
-- AI Agents (n8n Automation) <br>
-- REST API Development <br>
-- SQL & NoSQL Databases <br>
-- Version Control (Git & GitHub)
-</p>
