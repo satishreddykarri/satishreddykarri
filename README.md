@@ -4,7 +4,9 @@
 
 ### `AI/ML Engineer` · `Software Engineer`
 
-![Tech Neural Network](./assets/neural-network.gif)
+<br>
+
+![3D Neural Core](./assets/neural-core.gif)
 
 <br>
 
@@ -25,7 +27,7 @@
 
 ---
 
-## `SKILLS`
+### `TECH STACK`
 
 **Languages**
 
@@ -36,7 +38,7 @@
 `Machine Learning` `Computer Vision` `YOLOv8` `OpenCV`  
 `Scikit-learn` `NumPy` `Pandas`
 
-**Software**
+**Backend & Development**
 
 `REST APIs` `Node.js` `Express.js` `React` `Flutter`
 
@@ -44,22 +46,6 @@
 
 `MongoDB` `Firebase` `Supabase` `Tableau`  
 `Git` `GitHub Actions` `Postman` `DBeaver`
-
----
-
-<div align="center">
-
-![3D Computing Core](./assets/compute-core-3d.gif)
-
-</div>
-
----
-
-<div align="center">
-
-![Animated Code Stream](./assets/code-stream.gif)
-
-</div>
 
 ---
 
