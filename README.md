@@ -1,51 +1,181 @@
-<h1 align="center">Hi 👋, I'm Karri Sai Krishna Naga Satish Reddy</h1>
-<h3 align="center">Software Developer | Machine Learning Enthusiast | Flutter & MERN Stack Developer</h3>
+<h1 align="center">Karri Sai Krishna Naga Satish Reddy</h1>
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dwzcacwy9/image/upload/v1719688122/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966_h4plny.gif">
+<h3 align="center">AI/ML Engineer | Software Engineer</h3>
 
-- 🌱 I am passionate about building scalable applications, solving real-world problems, and exploring AI-driven solutions.
-- 💡 Skilled in Flutter, MERN Stack, Machine Learning, Splunk, Tableau and AI Agents (n8n).
-- 📫 Reach me at **satishreddykarri121@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/karrinagasatishreddy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/satishreddykarri_121" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/satishreddykarri_1342/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
+<p align="center">
+  I build machine learning systems, backend services, and full-stack applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-  <!-- Web & App Development -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <!-- Flutter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-
-  <!-- n8n -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40"/>
-
-  <!-- Tools & Other Skills -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  
+<p align="center">
+  <a href="https://satishreddykarri.github.io/Portfolio/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:satishreddykarri121@gmail.com">Email</a>
 </p>
 
+---
+
+## About
+
+I'm a Computer Science graduate specializing in AI & ML, currently working as an Associate Developer.
+
+My recent work includes backend services and REST APIs with Go, SQL-based data operations, and machine learning projects using Python.
+
+I enjoy working on problems where software engineering and machine learning meet.
+
+---
+
+## What I Work With
+
+### AI / ML
+Python · Machine Learning · Computer Vision · YOLOv8 · OpenCV · Scikit-learn · NumPy · Pandas
+
+### Backend / Full Stack
+Go · Node.js · Express.js · React · REST APIs · JavaScript
+
+### Data / Databases
+SQL · MongoDB · Tableau
+
+### Tools
+Git · GitHub · Postman · GitHub Actions · Firebase · DBeaver · n8n
+
+### Mobile
+Flutter · Dart
+
+---
+
+## Selected Projects
+
+### 🚦 ML-Based Intelligent Traffic Signal System
+
+Built a YOLOv8-based vehicle detection pipeline to estimate traffic density and dynamically adjust traffic signal timing.
+
+- Emergency vehicle prioritization for ambulances and fire trucks
+- Real-time monitoring dashboard with Streamlit
+- 95.1% detection accuracy
+- Reduced vehicle wait times by up to 56.25%
+
+**Stack:** Python · YOLOv8 · OpenCV · Streamlit · Machine Learning
+
+[Repository](https://github.com/satishreddykarri/Traffic_Management_System) · [Live Demo](https://abhiramvarma2004-traffic-signal-ml-streamlit.hf.space/)
+
+---
+
+### 🌳 Agentic Tree Data Structure Visualizer
+
+Built an interactive tree visualization tool that combines data structure operations with AI-powered explanations.
+
+- Interactive tree creation and modification
+- LLM-powered explanations of tree operations
+- Agentic workflows for step-by-step algorithm guidance
+
+**Stack:** AI Agents · LLMs · Data Structures · JavaScript
+
+[Repository](https://github.com/satishreddykarri/Agentic-Tree-DataStructure-Visualizer)
+
+---
+
+### 🎬 Movie Recommendation System
+
+Built a machine learning-based movie recommendation application using a dataset of 4,802 movies.
+
+- Logistic Regression-based recommendation approach
+- 96% accuracy
+- Optimized preprocessing and feature engineering
+- Deployed as an interactive Streamlit application
+
+**Stack:** Python · Scikit-learn · Pandas · Streamlit
+
+[Live Demo](https://movierecommendationdeploy.streamlit.app/)
+
+---
+
+### ✅ Task Manager
+
+Built a cross-platform task management application using Flutter and Supabase.
+
+- Email-based authentication
+- Complete CRUD operations
+- Real-time data synchronization
+- Progress tracking and completion analytics
+
+**Stack:** Flutter · Dart · Supabase
+
+[Repository](https://github.com/satishreddykarri/task_manager)
+
+---
+
+### 🩸 Blood Donation System
+
+Built a full-stack application connecting blood donors with recipients.
+
+- User registration and authentication
+- Donor profile and blood-group management
+- Blood-group based donor search
+- REST API backend
+
+**Stack:** Node.js · Express.js · MongoDB · JavaScript
+
+[Live Demo](https://blooddonation-m40d.onrender.com/)
+
+---
+
+### 📊 Human Resource Dashboard
+
+Built an interactive HR analytics dashboard using Tableau and SQL.
+
+- Data cleaning and preprocessing with SQL
+- Exploratory data analysis
+- Workforce and hiring insights
+- Interactive KPI visualizations
+
+**Stack:** Tableau · SQL · Data Analysis
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/karri.sai.krishna.naga.satish.reddy/viz/FinalHumanResourceDashboard/HRSummary)
+
+---
+
+## Experience
+
+**Associate Developer — Digno Solutions**
+
+Backend development using Go, REST APIs, SQL, Postman and DBeaver.
+
+**Flutter Developer Intern — Datavalley Web Services**
+
+Built real-time Flutter applications with REST API integration, state management and GitHub Actions CI/CD.
+
+**Full Stack Web Developer Intern — Edumoon**
+
+Built responsive web applications using the MERN stack and developed RESTful APIs.
+
+---
+
+## Highlights
+
+- 🏆 Ranked **7th** in a Machine Learning hackathon
+- 💻 Solved **400+ LeetCode problems**
+- 📊 Received faculty appreciation for a Tableau dashboard project
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/">
+    LinkedIn
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://satishreddykarri.github.io/Portfolio/">
+    Portfolio
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/satishreddykarri">
+    GitHub
+  </a>
+  &nbsp; · &nbsp;
+  <a href="mailto:satishreddykarri121@gmail.com">
+    Email
+  </a>
+</p>
