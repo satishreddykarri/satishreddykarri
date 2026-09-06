@@ -2,236 +2,157 @@
 
 # Karri Sai Krishna Naga Satish Reddy
 
-### `AI/ML Engineer` · `Software Engineer`
+### `AI / ML Engineer` · `Software Engineer`
+
+<!-- Animated tech visual — no local file required -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Computer+Vision;Backend+Engineering+%7C+REST+APIs;Building+Systems+that+actually+run.;Python+%7C+Go+%7C+Java+%7C+SQL" alt="Animated technical introduction">
 
 <br>
 
-![3D Neural Core](./assets/neural-core.gif)
-
-<br>
-
-**I build ML systems, backend services, and software products.**
+**I build machine learning systems, backend services, and software products.**
 
 `Machine Learning` · `Computer Vision` · `Backend` · `Full Stack`
 
+<br>
+
+[Portfolio](https://satishreddykarri.github.io/Portfolio/) ·
+[LinkedIn](https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/) ·
+[LeetCode](https://leetcode.com/u/satishreddykarri_1342/) ·
+[Kaggle](https://www.kaggle.com/karrinagasatishreddy)
+
+</div>
+
+---
+
+## About
+
+I work across **AI/ML and software engineering**, turning ideas into working systems.
+
+My focus is on **computer vision, machine learning applications, backend APIs, and scalable software** using Python, Go, JavaScript, Java, and SQL.
+
+---
+
+## ⚙️ Technical Stack
+
+**Programming**
+
+`Python` `Java` `JavaScript` `SQL` `Go` `Dart`
+
+**AI / ML**
+
+`Machine Learning` `Computer Vision` `YOLOv8` `OpenCV` `Scikit-learn` `NumPy` `Pandas`
+
+**Backend / Full Stack**
+
+`React` `Node.js` `Express.js` `REST APIs` `Go`
+
+**Data / Databases**
+
+`SQL` `MongoDB` `Tableau`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `Postman` `GitHub Actions` `Firebase` `Supabase` `Flutter` `Android` `n8n`
+
+---
+
+## 🧠 AI Systems
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/terminal.gif" width="500" alt="Animated terminal">
+
 <br><br>
+
+`INPUT` → `PROCESS` → `MODEL` → `DECISION`
+
+</div>
+
+---
+
+## 🚀 Featured Work
+
+### 01 — ML-Based Intelligent Traffic Signal System
+
+An ML-powered traffic management system that analyzes vehicle density and dynamically assists traffic signal decisions.
+
+**Stack:** `Python` `YOLOv8` `OpenCV` `Streamlit`
+
+**Result:** `95.1% detection accuracy`
+
+[GitHub](https://github.com/satishreddykarri/Traffic_Management_System) ·
+[Live Demo](https://abhiramvarma2004-traffic-signal-ml-streamlit.hf.space/)
+
+---
+
+### 02 — Movie Recommendation System
+
+A machine-learning recommendation system that processes a large movie dataset to generate relevant movie recommendations.
+
+**Stack:** `Python` `Scikit-learn` `Pandas` `Streamlit`
+
+**Dataset:** `4,802 movies` · **Accuracy:** `96%`
+
+[Live Demo](https://movierecommendationdeploy.streamlit.app/)
+
+---
+
+### 03 — Threads Together
+
+A hyperlocal Android application designed to connect people who need or can provide help within a **3 km radius**.
+
+**Stack:** `Java` `Firebase` `Google Maps` `Android`
+
+**Focus:** Real-time location · Authentication · Hyperlocal assistance
+
+[GitHub](https://github.com/SaiSahithPolimera/ThreadsTogether)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=satishreddykarri&show_icons=true&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishreddykarri&layout=compact&hide_border=true" height="170">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satishreddykarri&hide_border=true&area=true" width="90%">
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+- **467+** LeetCode problems solved
+- **Ranked 7th** in an ML hackathon
+- Received **faculty appreciation** for a Tableau-based Human Resource Dashboard
+
+---
+
+## 🔭 Current Focus
+
+`Machine Learning` · `Computer Vision` · `AI Systems` · `Backend Engineering` · `Scalable APIs`
+
+---
+
+<div align="center">
+
+### Build. Train. Deploy. Improve.
+
+<br>
 
 [🌐 Portfolio](https://satishreddykarri.github.io/Portfolio/) ·
 [💼 LinkedIn](https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/) ·
 [🐙 GitHub](https://github.com/satishreddykarri) ·
-[📊 Kaggle](https://kaggle.com/karrinagasatishreddy) ·
-[⚡ LeetCode](https://leetcode.com/u/satishreddykarri_1342/) ·
-[✉️ Email](mailto:satishreddykarri121@gmail.com)
+[🧩 LeetCode](https://leetcode.com/u/satishreddykarri_1342/) ·
+[📊 Kaggle](https://www.kaggle.com/karrinagasatishreddy)
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### `01 / ABOUT`
-
-</div>
-
-I build **machine learning applications, computer vision systems, backend services, REST APIs, and full-stack software**.
-
-My work spans **AI/ML, backend engineering, data, and application development**, with a focus on turning technical ideas into working systems.
-
----
-
-<div align="center">
-
-### `02 / CURRENTLY BUILDING`
-
-`MACHINE LEARNING` · `COMPUTER VISION` · `AI SYSTEMS`
-
-`BACKEND ENGINEERING` · `SCALABLE APIs` · `PRACTICAL ML APPLICATIONS`
-
-</div>
-
----
-
-<div align="center">
-
-### `03 / TECH STACK`
-
-</div>
-
-**Languages**
-
-`Python` `Go` `Java` `JavaScript` `SQL` `Dart`
-
-**AI / ML**
-
-`Machine Learning` `Computer Vision` `YOLOv8` `OpenCV`  
-`Scikit-learn` `NumPy` `Pandas`
-
-**Backend / Development**
-
-`REST APIs` `Go` `Node.js` `Express.js` `React` `Flutter`
-
-**Data / Tools**
-
-`MongoDB` `Firebase` `Supabase` `Tableau`  
-`Git` `GitHub Actions` `Postman` `DBeaver`
-
----
-
-<div align="center">
-
-### `04 / FEATURED WORK`
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🚦 ML Traffic Signal System
-
-YOLOv8-based vehicle detection and intelligent traffic signal optimization.
-
-`YOLOv8` `Python` `OpenCV` `Streamlit`
-
-[Repository →](https://github.com/satishreddykarri/Traffic_Management_System)
-
-[Live Demo →](https://abhiramvarma2004-traffic-signal-ml-streamlit.hf.space/)
-
-</td>
-
-<td width="50%">
-
-### 🎬 Movie Recommendation System
-
-Machine learning recommendation system built around a dataset of 4,802 movies.
-
-`Python` `Scikit-learn` `Pandas` `Streamlit`
-
-[Live Demo →](https://movierecommendationdeploy.streamlit.app/)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ✅ Task Manager
-
-Cross-platform task management application with authentication, CRUD operations, real-time sync, and progress analytics.
-
-`Flutter` `Dart` `Supabase`
-
-[Repository →](https://github.com/satishreddykarri/task_manager)
-
-</td>
-
-<td width="50%">
-
-### 🩸 Blood Donation System
-
-Web application for donor registration, authentication, profiles, blood groups, and donor discovery.
-
-`Node.js` `Express` `MongoDB` `JavaScript`
-
-[Live Demo →](https://blooddonation-m40d.onrender.com/)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📊 Human Resource Dashboard
-
-Interactive HR analytics dashboard built around data exploration and visualization.
-
-`Tableau` `SQL` `EDA` `Data Analytics`
-
-[View Dashboard →](https://public.tableau.com/app/profile/karri.sai.krishna.naga.satish.reddy/viz/FinalHumanResourceDashboard/HRSummary)
-
-</td>
-
-<td width="50%">
-
-### 📍 Threads Together
-
-Hyperlocal Android application connecting people within a 3 km radius for location-based help and interaction.
-
-`Java` `Firebase` `Google Maps` `Android`
-
-[Repository →](https://github.com/SaiSahithPolimera/ThreadsTogether)
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `05 / ENGINEERING SIGNAL`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=satishreddykarri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFF6B&icon_color=7CFF6B&text_color=9CA3AF&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishreddykarri&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFF6B&text_color=9CA3AF" height="165">
-
-</div>
-
----
-
-<div align="center">
-
-### `06 / CONTRIBUTIONS`
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satishreddykarri&bg_color=0D1117&color=7CFF6B&line=7CFF6B&point=FFFFFF&area=true&hide_border=true" width="95%">
-
-</div>
-
----
-
-<div align="center">
-
-### `07 / BEYOND CODE`
-
-<br>
-
-**400+** LeetCode problems solved
-
-**7th** — Machine Learning Hackathon
-
-**Faculty Appreciation** — Human Resource Tableau Dashboard
-
-</div>
-
----
-
-<div align="center">
-
-### `08 / CONNECT`
-
-<br>
-
-[🌐 Portfolio](https://satishreddykarri.github.io/Portfolio/)  
-[💼 LinkedIn](https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/)  
-[🐙 GitHub](https://github.com/satishreddykarri)  
-[📊 Kaggle](https://kaggle.com/karrinagasatishreddy)  
-[⚡ LeetCode](https://leetcode.com/u/satishreddykarri_1342/)  
-[✉️ Email](mailto:satishreddykarri121@gmail.com)
-
-<br>
-
-`BUILD · LEARN · SHIP`
-
-<sub>AI/ML · Backend · Software Engineering</sub>
+<sub>Designed & built from scratch.</sub>
 
 </div>
