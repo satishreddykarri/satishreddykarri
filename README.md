@@ -1,158 +1,127 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Karri Sai Krishna Naga Satish Reddy</h1>
 
-# Karri Sai Krishna Naga Satish Reddy
+<h3 align="center">AI/ML Engineer · Software Engineer</h3>
 
-### `AI / ML Engineer` · `Software Engineer`
-
-<!-- Animated tech visual — no local file required -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Computer+Vision;Backend+Engineering+%7C+REST+APIs;Building+Systems+that+actually+run.;Python+%7C+Go+%7C+Java+%7C+SQL" alt="Animated technical introduction">
-
-<br>
-
-**I build machine learning systems, backend services, and software products.**
-
-`Machine Learning` · `Computer Vision` · `Backend` · `Full Stack`
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dwzcacwy9/image/upload/v1719688122/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966_h4plny.gif">
+</p>
 
 <br>
 
-[Portfolio](https://satishreddykarri.github.io/Portfolio/) ·
-[LinkedIn](https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/) ·
-[LeetCode](https://leetcode.com/u/satishreddykarri_1342/) ·
-[Kaggle](https://www.kaggle.com/karrinagasatishreddy)
+- 🤖 I build **Machine Learning and Computer Vision systems** for practical applications.
+- 💻 I work across **AI/ML, Backend Engineering, and Full-Stack Development**.
+- 🛠️ I enjoy building with **Python, Go, JavaScript, React, Node.js, Express.js, and Flutter**.
+- 🧠 Currently exploring **AI systems, scalable APIs, Computer Vision, and AI automation**.
+- 🧩 I have solved **400+ problems on LeetCode**.
+- 📫 Reach me at **satishreddykarri121@gmail.com**
 
-</div>
-
----
-
-## About
-
-I work across **AI/ML and software engineering**, turning ideas into working systems.
-
-My focus is on **computer vision, machine learning applications, backend APIs, and scalable software** using Python, Go, JavaScript, Java, and SQL.
+<br clear="right"/>
 
 ---
 
-## ⚙️ Technical Stack
+### `CONNECT WITH ME`
 
-**Programming**
-
-`Python` `Java` `JavaScript` `SQL` `Go` `Dart`
-
-**AI / ML**
-
-`Machine Learning` `Computer Vision` `YOLOv8` `OpenCV` `Scikit-learn` `NumPy` `Pandas`
-
-**Backend / Full Stack**
-
-`React` `Node.js` `Express.js` `REST APIs` `Go`
-
-**Data / Databases**
-
-`SQL` `MongoDB` `Tableau`
-
-**Tools & Platforms**
-
-`Git` `GitHub` `Postman` `GitHub Actions` `Firebase` `Supabase` `Flutter` `Android` `n8n`
+<p align="left">
+  <a href="https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://kaggle.com/karrinagasatishreddy" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="Kaggle"/>
+  </a>
+  <a href="https://instagram.com/satishreddykarri_121" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/satishreddykarri_1342/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/>
+  </a>
+  <a href="https://satishreddykarri.github.io/Portfolio/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="30" width="30" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 AI Systems
+### `WHAT I WORK WITH`
 
-<div align="center">
+**AI / Machine Learning**
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/terminal.gif" width="500" alt="Animated terminal">
+`Machine Learning` `Computer Vision` `YOLOv8` `OpenCV`  
+`Scikit-learn` `NumPy` `Pandas` `AI Agents` `n8n`
 
-<br><br>
+**Languages**
 
-`INPUT` → `PROCESS` → `MODEL` → `DECISION`
+`Python` `Go` `Java` `JavaScript` `C` `SQL` `Dart`
 
-</div>
+**Web / Backend / Mobile**
 
----
+`Node.js` `Express.js` `React` `Flutter` `MERN Stack` `REST APIs`
 
-## 🚀 Featured Work
+**Data / Tools**
 
-### 01 — ML-Based Intelligent Traffic Signal System
-
-An ML-powered traffic management system that analyzes vehicle density and dynamically assists traffic signal decisions.
-
-**Stack:** `Python` `YOLOv8` `OpenCV` `Streamlit`
-
-**Result:** `95.1% detection accuracy`
-
-[GitHub](https://github.com/satishreddykarri/Traffic_Management_System) ·
-[Live Demo](https://abhiramvarma2004-traffic-signal-ml-streamlit.hf.space/)
+`MongoDB` `Firebase` `Supabase` `Tableau` `Splunk`  
+`Git` `GitHub Actions` `Postman` `DBeaver`
 
 ---
 
-### 02 — Movie Recommendation System
+### `LANGUAGES AND TOOLS`
 
-A machine-learning recommendation system that processes a large movie dataset to generate relevant movie recommendations.
-
-**Stack:** `Python` `Scikit-learn` `Pandas` `Streamlit`
-
-**Dataset:** `4,802 movies` · **Accuracy:** `96%`
-
-[Live Demo](https://movierecommendationdeploy.streamlit.app/)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="40" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40" alt="n8n"/>
+</p>
 
 ---
 
-### 03 — Threads Together
+### `CURRENTLY EXPLORING`
 
-A hyperlocal Android application designed to connect people who need or can provide help within a **3 km radius**.
-
-**Stack:** `Java` `Firebase` `Google Maps` `Android`
-
-**Focus:** Real-time location · Authentication · Hyperlocal assistance
-
-[GitHub](https://github.com/SaiSahithPolimera/ThreadsTogether)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=satishreddykarri&show_icons=true&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishreddykarri&layout=compact&hide_border=true" height="170">
+`Machine Learning` · `Computer Vision` · `AI Systems`  
+`Backend Engineering` · `REST APIs` · `AI Automation`
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satishreddykarri&hide_border=true&area=true" width="90%">
-
-</div>
-
----
-
-## 🏆 Highlights
-
-- **467+** LeetCode problems solved
-- **Ranked 7th** in an ML hackathon
-- Received **faculty appreciation** for a Tableau-based Human Resource Dashboard
+I like learning by building — experimenting with models, developing applications,
+and connecting AI with real software.
 
 ---
 
-## 🔭 Current Focus
+### `FIND ME AROUND THE WEB`
 
-`Machine Learning` · `Computer Vision` · `AI Systems` · `Backend Engineering` · `Scalable APIs`
+🌐 **Portfolio** → [satishreddykarri.github.io/Portfolio](https://satishreddykarri.github.io/Portfolio/)
+
+💼 **LinkedIn** → [Karri Sai Krishna Naga Satish Reddy](https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/)
+
+📊 **Kaggle** → [karrinagasatishreddy](https://kaggle.com/karrinagasatishreddy)
+
+⚡ **LeetCode** → [satishreddykarri_1342](https://leetcode.com/u/satishreddykarri_1342/)
+
+🐙 **GitHub** → [satishreddykarri](https://github.com/satishreddykarri)
+
+✉️ **Email** → [satishreddykarri121@gmail.com](mailto:satishreddykarri121@gmail.com)
 
 ---
 
 <div align="center">
 
-### Build. Train. Deploy. Improve.
+`AI/ML` · `Computer Vision` · `Backend` · `Software Engineering`
 
 <br>
 
-[🌐 Portfolio](https://satishreddykarri.github.io/Portfolio/) ·
-[💼 LinkedIn](https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/) ·
-[🐙 GitHub](https://github.com/satishreddykarri) ·
-[🧩 LeetCode](https://leetcode.com/u/satishreddykarri_1342/) ·
-[📊 Kaggle](https://www.kaggle.com/karrinagasatishreddy)
-
-<br><br>
-
-<sub>Designed & built from scratch.</sub>
+**Thanks for stopping by! 👋**
 
 </div>
