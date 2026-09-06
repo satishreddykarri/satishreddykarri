@@ -1,181 +1,103 @@
-<h1 align="center">Karri Sai Krishna Naga Satish Reddy</h1>
+<div align="center">
 
-<h3 align="center">AI/ML Engineer | Software Engineer</h3>
+# 👋 Hi, I'm Karri Sai Krishna Naga Satish Reddy
+
+### AI/ML Engineer · Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7CFF6B&center=true&vCenter=true&width=650&height=45&lines=Building+ML+systems;Writing+backend+software;Turning+ideas+into+working+products" />
+
+<br/>
+
+<a href="https://satishreddykarri.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-7CFF6B?style=flat-square&logo=googlechrome&logoColor=000000" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=7CFF6B" />
+</a>
+&nbsp;
+<a href="mailto:satishreddykarri121@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=7CFF6B" />
+</a>
+
+</div>
+
+---
+
+### 🧠 What I do
+
+I build **machine learning applications, backend services, REST APIs, and software products**.
+
+My main interests are **AI/ML, computer vision, backend engineering, and full-stack development**.
+
+Currently working with **Go, Python, SQL, JavaScript, and ML technologies**.
+
+---
+
+### ⚙️ Skills
+
+**Languages**
+
+`Python` `Java` `Go` `JavaScript` `SQL` `Dart`
+
+**AI / ML**
+
+`Machine Learning` `Computer Vision` `YOLOv8` `OpenCV`  
+`Scikit-learn` `NumPy` `Pandas`
+
+**Backend / Development**
+
+`Go` `Node.js` `Express.js` `REST APIs` `React` `Flutter`
+
+**Data / Cloud / Tools**
+
+`MongoDB` `Firebase` `Supabase` `Tableau`  
+`Git` `GitHub` `Postman` `GitHub Actions` `DBeaver`
+
+---
+
+### 🌐 Find me around the web
 
 <p align="center">
-  I build machine learning systems, backend services, and full-stack applications.
+
+<a href="https://satishreddykarri.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=flat-square&logoColor=7CFF6B" />
+</a>
+
+<a href="https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=7CFF6B" />
+</a>
+
+<a href="https://github.com/satishreddykarri">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=7CFF6B" />
+</a>
+
+<a href="https://kaggle.com/karrinagasatishreddy">
+<img src="https://img.shields.io/badge/Kaggle-111111?style=flat-square&logo=kaggle&logoColor=7CFF6B" />
+</a>
+
+<a href="https://leetcode.com/u/satishreddykarri_1342/">
+<img src="https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode&logoColor=7CFF6B" />
+</a>
+
 </p>
 
-<p align="center">
-  <a href="https://satishreddykarri.github.io/Portfolio/">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:satishreddykarri121@gmail.com">Email</a>
-</p>
-
 ---
 
-## About
+<div align="center">
 
-I'm a Computer Science graduate specializing in AI & ML, currently working as an Associate Developer.
+### `BUILD · LEARN · SHIP`
 
-My recent work includes backend services and REST APIs with Go, SQL-based data operations, and machine learning projects using Python.
+<br/>
 
-I enjoy working on problems where software engineering and machine learning meet.
+<img src="https://skillicons.dev/icons?i=python,go,java,js,react,nodejs,mongodb,flutter,dart,git,github&perline=11" />
 
----
+<br/><br/>
 
-## What I Work With
+<sub>AI/ML • Backend • Software Engineering</sub>
 
-### AI / ML
-Python · Machine Learning · Computer Vision · YOLOv8 · OpenCV · Scikit-learn · NumPy · Pandas
+<br/><br/>
 
-### Backend / Full Stack
-Go · Node.js · Express.js · React · REST APIs · JavaScript
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&height=35&lines=Always+learning.+Always+building." />
 
-### Data / Databases
-SQL · MongoDB · Tableau
-
-### Tools
-Git · GitHub · Postman · GitHub Actions · Firebase · DBeaver · n8n
-
-### Mobile
-Flutter · Dart
-
----
-
-## Selected Projects
-
-### 🚦 ML-Based Intelligent Traffic Signal System
-
-Built a YOLOv8-based vehicle detection pipeline to estimate traffic density and dynamically adjust traffic signal timing.
-
-- Emergency vehicle prioritization for ambulances and fire trucks
-- Real-time monitoring dashboard with Streamlit
-- 95.1% detection accuracy
-- Reduced vehicle wait times by up to 56.25%
-
-**Stack:** Python · YOLOv8 · OpenCV · Streamlit · Machine Learning
-
-[Repository](https://github.com/satishreddykarri/Traffic_Management_System) · [Live Demo](https://abhiramvarma2004-traffic-signal-ml-streamlit.hf.space/)
-
----
-
-### 🌳 Agentic Tree Data Structure Visualizer
-
-Built an interactive tree visualization tool that combines data structure operations with AI-powered explanations.
-
-- Interactive tree creation and modification
-- LLM-powered explanations of tree operations
-- Agentic workflows for step-by-step algorithm guidance
-
-**Stack:** AI Agents · LLMs · Data Structures · JavaScript
-
-[Repository](https://github.com/satishreddykarri/Agentic-Tree-DataStructure-Visualizer)
-
----
-
-### 🎬 Movie Recommendation System
-
-Built a machine learning-based movie recommendation application using a dataset of 4,802 movies.
-
-- Logistic Regression-based recommendation approach
-- 96% accuracy
-- Optimized preprocessing and feature engineering
-- Deployed as an interactive Streamlit application
-
-**Stack:** Python · Scikit-learn · Pandas · Streamlit
-
-[Live Demo](https://movierecommendationdeploy.streamlit.app/)
-
----
-
-### ✅ Task Manager
-
-Built a cross-platform task management application using Flutter and Supabase.
-
-- Email-based authentication
-- Complete CRUD operations
-- Real-time data synchronization
-- Progress tracking and completion analytics
-
-**Stack:** Flutter · Dart · Supabase
-
-[Repository](https://github.com/satishreddykarri/task_manager)
-
----
-
-### 🩸 Blood Donation System
-
-Built a full-stack application connecting blood donors with recipients.
-
-- User registration and authentication
-- Donor profile and blood-group management
-- Blood-group based donor search
-- REST API backend
-
-**Stack:** Node.js · Express.js · MongoDB · JavaScript
-
-[Live Demo](https://blooddonation-m40d.onrender.com/)
-
----
-
-### 📊 Human Resource Dashboard
-
-Built an interactive HR analytics dashboard using Tableau and SQL.
-
-- Data cleaning and preprocessing with SQL
-- Exploratory data analysis
-- Workforce and hiring insights
-- Interactive KPI visualizations
-
-**Stack:** Tableau · SQL · Data Analysis
-
-[Tableau Dashboard](https://public.tableau.com/app/profile/karri.sai.krishna.naga.satish.reddy/viz/FinalHumanResourceDashboard/HRSummary)
-
----
-
-## Experience
-
-**Associate Developer — Digno Solutions**
-
-Backend development using Go, REST APIs, SQL, Postman and DBeaver.
-
-**Flutter Developer Intern — Datavalley Web Services**
-
-Built real-time Flutter applications with REST API integration, state management and GitHub Actions CI/CD.
-
-**Full Stack Web Developer Intern — Edumoon**
-
-Built responsive web applications using the MERN stack and developed RESTful APIs.
-
----
-
-## Highlights
-
-- 🏆 Ranked **7th** in a Machine Learning hackathon
-- 💻 Solved **400+ LeetCode problems**
-- 📊 Received faculty appreciation for a Tableau dashboard project
-
----
-
-## Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/karri-sai-krishna-naga-satish-reddy-5ab5b1264/">
-    LinkedIn
-  </a>
-  &nbsp; · &nbsp;
-  <a href="https://satishreddykarri.github.io/Portfolio/">
-    Portfolio
-  </a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/satishreddykarri">
-    GitHub
-  </a>
-  &nbsp; · &nbsp;
-  <a href="mailto:satishreddykarri121@gmail.com">
-    Email
-  </a>
-</p>
+</div>
