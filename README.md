@@ -108,7 +108,7 @@ and connecting AI with real software.
 
 📊 **Kaggle** → [karrinagasatishreddy](https://kaggle.com/karrinagasatishreddy)
 
-⚡ **LeetCode** → [satishreddykarri_1342](https://leetcode.com/u/satishreddykarri_1342/)
+⚡ **LeetCode** → [satishreddykarri](https://leetcode.com/u/nagasatishreddykarri/)
 
 🐙 **GitHub** → [satishreddykarri](https://github.com/satishreddykarri)
 
